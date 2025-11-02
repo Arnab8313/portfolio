@@ -12,7 +12,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Portfolio | Arnab Choudhury",
   description: "Front-End Web Developer & Aspiring Data Scientist. Explore my projects, skills, and experience.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
