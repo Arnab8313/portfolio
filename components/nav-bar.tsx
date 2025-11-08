@@ -17,6 +17,8 @@ export default function NavBar({ isDark, setIsDark }: NavBarProps) {
     { name: "Experience", id: "experience" },
     { name: "Projects", id: "projects" },
     { name: "Skills", id: "skills" },
+    { name: "Achievements", id: "achievements" },
+    { name: "Clubs", id: "clubs" },
     { name: "Contact", id: "contact" },
   ]
 

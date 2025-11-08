@@ -18,7 +18,7 @@ const projects: Project[] = [
     description: "A responsive web app to track income and expenses in real time with intuitive charts and analytics.",
     tech: ["React", "Tailwind CSS", "Vercel"],
     link: "https://expense-tracker-eta-hazel.vercel.app/",
-    image: "/expense-tracker-app-dashboard.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5d706591-9c48-4ddf-9231-8e457ee292a4.png",
     gradient: "from-cyan-400/20 to-cyan-600/20",
   },
   {
@@ -27,7 +27,7 @@ const projects: Project[] = [
       "A modern task management app with drag-and-drop sorting and a clean, intuitive interface for productivity.",
     tech: ["React", "Tailwind CSS", "Local Storage", "Vercel"],
     link: "https://task-manager-eta-roan-15.vercel.app/",
-    image: "/task-manager-app-interface.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/934ba3f2-87c7-4b1f-a8a9-d04e109c1c9f.png",
     gradient: "from-violet-400/20 to-violet-600/20",
   },
   {
@@ -36,7 +36,7 @@ const projects: Project[] = [
       "A futuristic AI startup landing page featuring smooth animations, gradients, and modern design principles.",
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"],
     link: "https://novasync-startup-landing-page.vercel.app/",
-    image: "/ai-startup-landing-page.jpg",
+    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/7718be5b-b887-4b6d-a42a-e0357fbadeac.png",
     gradient: "from-pink-400/20 to-violet-600/20",
   },
 ]
